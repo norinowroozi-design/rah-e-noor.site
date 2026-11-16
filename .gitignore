@@ -1,0 +1,6 @@
+node_modules
+.next
+out
+.env*
+data/reflections.json.bak
+.DS_Store
